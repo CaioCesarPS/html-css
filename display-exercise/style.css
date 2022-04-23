@@ -1,0 +1,45 @@
+/* * {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+} */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.item {
+  background-color: #111;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 30px;
+}
+
+.item h2 {
+  color: #fff;
+  font-size: 30px;
+  margin: 0px;
+  padding-bottom: 10px;
+}
+
+.item span {
+  color: #febe01;
+}
+
+.item p {
+  color: #b2b2b2;
+  padding-bottom: 20px;
+}
+
+.item a {
+  background-color: #febe01;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid red;
+  display: inline-block;
+}

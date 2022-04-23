@@ -1,0 +1,11 @@
+body {
+  border: 1px solid red;
+  background-color: lightblue;
+}
+
+img {
+  border: 1px solid red;
+  display: block;
+  max-width: 100%;
+  width: 600px;
+}

@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-red {
+  color: darkred;
+}
+
+.dark-blue {
+  color: darkblue;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.sea-green {
+  color: seagreen;
+}
+
+p {
+  font-size: 20px;
+}
